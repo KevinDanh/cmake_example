@@ -1,0 +1,5 @@
+# Visual Studio Code Configs
+.vscode
+
+# Exclude Build Directory
+/build
